@@ -32,7 +32,6 @@ python-louvain
 camelot-py[cv]
 google-genai
 faiss-cpu
-fitz
 torch
 IPython
 tiktoken
